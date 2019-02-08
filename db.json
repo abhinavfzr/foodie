@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "restaurent_name": "Stories",
+      "restaurent_img": "https://b.zmtcdn.com/data/pictures/2/18642512/e1641fbf26b8ea526b8d2d84bac0b923.jpg",
+      "restaurent_location": "77, West of Chord Road, Beside To Mahalakshmi Layout Metro Station, Rajajinagar, Bangalore",
+      "id": 2
+    },
+    {
+      "restaurent_name": "Myu Bar at Gilly's Redefined",
+      "restaurent_img": "https://b.zmtcdn.com/data/pictures/chains/7/18582507/38b6d7c723279d57aabb061c5e907067.jpg?output-format=webp",
+      "restaurent_location": "413, 100 Feet Road, Koramangala 4th Block, Bangalore",
+      "id": 3
+    },
+    {
+      "restaurent_name": "Pappu Chaiwalla",
+      "restaurent_img": "https://b.zmtcdn.com/data/pictures/1/18569071/c0a4003b76a893c796e0aa12034c56da.jpg?output-format=webp",
+      "restaurent_location": "251, 19th Main, Opposite Gnan Srishti Scholl of Excellence, HSR, Bangalore",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
